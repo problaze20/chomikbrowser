@@ -1,2 +1,2 @@
-# browserdownload
-This is a page for downloading chomik browser
+# chomikbrowser
+a very fast and good broswer based on min
